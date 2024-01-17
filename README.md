@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MateuszMyalski
 - 👀 I’m interested in Hard Real Time Embedded Programing.
-- 💞️ I’m looking to collaborate on interesting projects that are related with embedded programing and telecommunication. 
 - 📫 You can reach me at https://www.linkedin.com/in/mateuszmyalski
 
 <!---
